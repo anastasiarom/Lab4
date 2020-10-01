@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="human">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAAAAQAQAAAAAAAAAAAAEAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>lab4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="granny">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>lab4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mum">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAEAAAAIAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>lab4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grandad">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAIAAAAAAAAAAEAgAAAAAAAAAA=</HashCode>
+      <FileName>lab4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dad">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>lab4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="child">
+    <Position X="2.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAACAAAAABAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>lab4.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
