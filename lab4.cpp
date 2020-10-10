@@ -169,5 +169,6 @@ int main()
     getline(cin, hobby);
     child *c = new child(name,age,height,freckles,eyes,lashes,hair,hobby);
     c->output_child();
+    delete c;
 }
 
